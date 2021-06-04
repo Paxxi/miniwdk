@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(miniwdk VERSION 10.0.17763 LANGUAGES CXX)
+project(miniwdk VERSION 10.0.18362.0 LANGUAGES CXX)
 
 set(um "C:/Program Files (x86)/Windows Kits/10/Include/${PROJECT_VERSION}.0/um")
 set(km "C:/Program Files (x86)/Windows Kits/10/Include/${PROJECT_VERSION}.0/km")
